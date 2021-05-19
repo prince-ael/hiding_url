@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HidingAuthUrl</string>
+    <string name="asset_statements">
+        [{
+           \"relation\": [\"delegate\"]
+           \"target\": {
+                 \"namespace\": \"web\"
+                 \"site\": \"https://ab.nrbcommercialbank.com\"
+        }]
+    </string>
+    <string name="reg_label">Wellcome to BKB Registration</string>
+</resources>
